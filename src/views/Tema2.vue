@@ -5,7 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 La fotografía
+    Separador
+    #t_2_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+      h2 2.1 Clasificación de la fotografía
+    
+    Separador
+    #t_2_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+      h2 2.2 Planos fotográficos
+    
+    Separador
+    #t_2_3.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+      h2 2.3 Técnicas de composición
+    
+    Separador
+    #t_2_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+      h2 2.4 Consejos prácticos
 
 </template>
 
