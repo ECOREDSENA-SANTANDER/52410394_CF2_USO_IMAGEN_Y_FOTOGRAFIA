@@ -8,10 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-      p figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/HN2YgxL242Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
+    p En el siguiente video se mencionan los diferentes temas que serán tratados dentro de este componente formativo:
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HN2YgxL242Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Las imágenes y la fotografía
     
 </template>
 
