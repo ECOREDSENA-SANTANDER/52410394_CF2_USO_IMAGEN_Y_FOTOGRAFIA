@@ -261,12 +261,14 @@ export default {
         {
           nombre: 'Jhon Milton Zarate Martínez',
           cargo: 'Experto temático',
-          centro: 'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Johana Melina Montoya Piriachi',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Carolina Jiménez Suescun',
