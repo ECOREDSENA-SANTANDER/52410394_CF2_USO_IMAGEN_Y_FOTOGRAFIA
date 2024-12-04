@@ -79,7 +79,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Consejos prácticos',
+            titulo: 'Consejos prácticos para tomar fotografías',
             hash: 't_2_4',
           },
         ],
@@ -205,7 +205,7 @@ export default {
     },
     {
       referencia:
-        'Cristófol, A. Romo, M. (2011). Estudio de medios comunicativos. Madrid: Universidad Nacional de Educación a Distancia.',
+        'Cuadrado, A. Romo, M. (2011). Estudio de medios comunicativos. Madrid: Universidad Nacional de Educación a Distancia.',
       link: '',
     },
     {
@@ -261,12 +261,12 @@ export default {
         {
           nombre: 'Jhon Milton Zarate Martínez',
           cargo: 'Experto temático',
-          centro: 'Centro de desarrollo agroempresarial',
+          centro: 'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Johana Melina Montoya Piriachi',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro de desarrollo agroempresarial',
+          centro: 'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Carolina Jiménez Suescun',
@@ -304,7 +304,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

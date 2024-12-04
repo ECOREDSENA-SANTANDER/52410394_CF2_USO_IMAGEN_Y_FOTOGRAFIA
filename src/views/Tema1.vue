@@ -105,7 +105,7 @@
               .col-sm-12.col-lg-7.mb-0
                 h4 Simetría
                 p La simetría consiste en la separación de una imagen de uno de sus ejes. Estos dos ejes son iguales y se reflejan como un espejo. Dentro del manejo de la imagen, la simetría es más general y se refiere a la equivalencia de pesos que hay entre los elementos de una imagen tanto de un eje como del otro. 
-                p Existen diversos tipos de simetría. La simetría rígida es la disposición de las imágenes con absoluta similitud con respecto al eje real. En la simetría variable, la correspondencia de las partes es más libre y elástica, hay mayor libertad, puede traducirse en un cambio de posiciones o actividades de ambos lados del eje central.
+                p Existen diversos tipos de simetría. La simetría rígida es la disposición de las imágenes con absoluta similitud con respecto al eje real. En otras palabras, es la dimensión exacta de motivos, tales como edificios o estructuras gráficas. En la simetría variable, la correspondencia de las partes es más libre y elástica, hay mayor libertad, puede traducirse en un cambio de posiciones o actividades de ambos lados del eje central.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/14.png', alt='Ejemplo de simetría')
 
           .row.justify-content-center.align-items-center.mb-0

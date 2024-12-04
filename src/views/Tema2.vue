@@ -44,14 +44,15 @@
           .row(titulo="Fotografía Nocturna")
             .col-sm-12.col-lg-9
               p.mb-3 Se interpreta como fotografía nocturna la que es tomada en condiciones de luz un tanto complejas, ya sea al anochecer, a lo largo de la noche o en el momento del amanecer.
-              p.mb-0 Estas fotografías son muy difíciles de lograr, pero muy satisfactorias cuando se obtiene el objetivo. Lo más recomendable para tener buenas imágenes nocturnas es utilizar la cámara fija con trípode y en lo posible no usar flash.
+              p.mb-0 Estas fotografías son muy difíciles de lograr, pero muy satisfactorias cuando se obtiene el objetivo. Lo más recomendable para tener buenas imágenes nocturnas es utilizar la cámara fija con trípode y en lo posible no usar #[i flash].
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/6.png', alt='').d-none.d-lg-block
 
           .row(titulo="Fotografía Deportiva")
             .col-sm-12.col-lg-9
-              p.mb-3 La fotografía en este campo exige bastantes retos. Pero algo que muchas veces no se tiene en cuenta y es indispensable, es conocer las reglas básicas del deporte. Esto va a ayudar a tener buenas tomas y saber el momento propicio para obturar.
+              p.mb-3 La fotografía en este campo exige bastantes retos. Pero algo que muchas veces no se tiene en cuenta y es indispensable, es conocer las reglas básicas del deporte. Esto va a ayudar a tener buenas tomas y saber el momento propicio para obturar.  Es muy importante considerar el movimiento de los objetos o de las personas y tener la capacidad de anticiparse. Dependiendo de la situación, un trípode sería de gran utilidad. 
               p.mb-0 Se requiere bastante paciencia y al mismo tiempo agilidad para capturar un momento clave. Algunas cámaras ofrecen la opción de varios disparos consecutivos en aras de capturar secuencias.
+
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/7.png', alt='').d-none.d-lg-block
 
@@ -109,8 +110,9 @@
           .tarjeta.bg-color-2.p-4(titulo="Primer Plano")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
-                p.mb-3 De aquí en adelante el fondo pierde cualquier grado de importancia en la fotografía. La fotografía de primer plano es aquella que corta la imagen a nivel de los hombros. Es un tipo de fotografía muy íntimo dado su grado de cercanía con el objeto.
-                p.mb-0 El usarlo de forma vertical es ideal para la fotografía de rostros y de forma horizontal cuando existe juego alguno de manos o de algún objeto que intervenga en escena.
+                p.mb-3 De aquí en adelante el fondo pierde cualquier grado de importancia en la fotografía. La fotografía de primer plano es aquella que corta la imagen a nivel de los hombros. Es una fotografía muy íntima dado su grado de cercanía con el modelo.
+                p.mb-0  El usarla de forma vertical es ideal para la fotografía de rostros y de forma horizontal cuando existe juego alguno de manos o de algún objeto que intervenga en escena.
+
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/13.png', alt='')
 
@@ -215,7 +217,7 @@
 
     Separador
     #t_2_4.titulo-segundo.color-primario
-      h2 2.4 Consejos prácticos
+      h2 2.4 Consejos prácticos para tomar fotografías
     p.mb-3 En esta última parte se han recopilado algunos pequeños y prácticos consejos, que ayudarán a obtener fotografías más interesantes y mejorarán su criterio como fotógrafo.
     p.mb-5 Son cosas sencillas que se deben tener en cuenta al tomar una fotografía, muchas veces prestando un poco más de atención a cada elemento que incida en la escena.
     .row.justify-content-center.mb-5
@@ -231,15 +233,15 @@
 
           .row(titulo="La dirección de los objetos")
             .col-sm-12.col-lg-12
-              p.mb-3 Siempre que se toma una fotografía en un plano abierto se nota cómo se forman líneas imaginarias que se direccionan hacia un punto. Cuando se está "al tanto" de hacia dónde se dirigen las líneas direccionadas hacia este punto, se puede ubicar un objeto en ese sentido, captando la atención sobre él.
-              p.mb-3 En un plano más cerrado se puede jugar de la misma forma con los objetos, por ejemplo, un grupo de rostros mirando hacia la izquierda y un sujeto que mira hacia la derecha. En este caso no existen las líneas imaginarias que convergen hacia un punto, pero se aprovecha la dirección de los objetos en escena.
+              p.mb-3 Siempre que se toma una fotografía en un plano abierto se nota cómo se forman líneas imaginarias que se direccionan hacia un punto, llamado en arte “el punto de fuga”. Al tener la mayor parte de las líneas direccionadas hacia este punto, se puede ubicar un objeto en ese sentido, captando la atención sobre él.
+              p.mb-3 En un plano más cerrado se puede jugar de la misma forma con los objetos, por ejemplo, un grupo de motos mirando hacia la izquierda y en algún punto una moto hacia la derecha. En este caso no existen las líneas imaginarias que convergen hacia un punto, pero se aprovecha la dirección de los objetos en escena.
               p.mb-0 Otros ejemplos, son tomar tres rostros, dos mirando hacia el frente y el tercero mirando hacia arriba. Una toma a un grupo de cubiertos donde están perfectamente alineados y de pronto se presenta un tenedor torcido. Una fila de postes de luz donde se encuentra uno inclinado o a punto de caer. Todos estos casos describen el impacto que se puede lograr.
 
           .row(titulo="Estabilidad de la imagen")
             .col-sm-12.col-lg-12
-              p.mb-3 Las imágenes corridas es un mal que al parecer se ha incrementado con las cámaras digitales. Al ver las fotos reveladas o en el computador, se nota que están un poco borrosas.
-              p.mb-3 Este efecto es causado por la fuerza que se hace al obturar; cuando se acciona la cámara muchas veces se hace mucha fuerza y se mueve la cámara. Al mover la cámara en el momento que se captura la imagen estamos arruinando la fotografía.
-              p.mb-3 Para evitar este problema en cámara análoga se debe oprimir muy suavemente el obturador, además de mantener firmemente sujeta tanto la base o costados. En las cámaras digitales es más común dado a su escaso peso, razón por la cual la mayoría de los fabricantes incluyen una opción para estabilizar la imagen, la cual ayuda a corregir este problema.
+              p.mb-3 Las imágenes corridas es un mal que al parecer se ha incrementado con las cámaras digitales. Al ver las fotos reveladas o en el computador, se nota que estas no son legibles.
+              p.mb-3 Este efecto es causado por la fuerza que se hace al obturar, cuando se acciona la cámara muchas veces se hace mucha fuerza y se mueve la cámara. Al mover la cámara en el momento que se captura la imagen estamos se arruina la fotografía.
+              p.mb-3 Para evitar este problema en cámara análoga se debe oprimir muy suavemente el obturador, además sujetarla firmemente incluso desde su base o costados. En las cámaras digitales es más común dado a su escaso peso, razón por la cual la mayoría de los fabricantes incluyen una opción para estabilizar la imagen, la cual ayuda a corregir este problema.
               p.mb-0 Independientemente del tipo de cámara que se utilice, usted puede usar un trípode y como complemento, dependiendo las opciones de la cámara, es útil tener un temporizador, ya que al dispararse sola es nula la posibilidad de un movimiento que arruine la toma.
 
           .row(titulo="Marco natural")
@@ -266,31 +268,34 @@
             ul.lista-ul
               li
                 i.fas.fa-circle
-                | No leer el manual de instrucciones de la cámara; desconocerla no ayuda.
+                | 
               li
                 i.fas.fa-circle
-                | Usar el flash para objetos grandes o lejanos, este solo sirve a 4-5 metros.
+                |  No leer el manual de instrucciones de la cámara, desaprovechándola así.
               li
                 i.fas.fa-circle
-                | No chequear la configuración de la cámara antes de usarla.
+                |  Usar el #[i flash] para objetos grandes o lejanos, este solo sirve a 4-5 metros.
               li
                 i.fas.fa-circle
-                | No hacer pruebas de imagen antes de un evento importante.
+                |  No hacer copias de seguridad de las fotografías.
               li
                 i.fas.fa-circle
-                | Mover bruscamente la cámara en el momento de disparar.
+                |  Colocar el dedo sobre el #[i flash] o sobre el sensor de enfoque.
               li
                 i.fas.fa-circle
-                | No descargar las imágenes de la cámara con la debida frecuencia.
+                |  Mover bruscamente la cámara en el momento de obturar.
               li
                 i.fas.fa-circle
-                | No recargar la batería o no llevar baterías de repuesto.
+                |  Hacer uso del #[i zoom] digital, ya que la calidad de la imagen disminuye.
               li
                 i.fas.fa-circle
-                | No descargar la humedad de la cámara antes de salir de casa.
+                |  No recargar las baterías o no llevar baterías de repuesto en su defecto.
               li
                 i.fas.fa-circle
-                | No tener un estuche o forro que proteja a la cámara o el lente de un accidente.
+                |  No desocupar la memoria de la cámara antes de salir de casa.
+              li
+                i.fas.fa-circle
+                |  No tener un estuche o forro que proteja a la cámara o el lente de un accidente.
 
 
 
