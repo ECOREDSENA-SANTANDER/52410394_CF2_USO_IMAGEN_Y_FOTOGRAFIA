@@ -268,9 +268,6 @@
             ul.lista-ul
               li
                 i.fas.fa-circle
-                | 
-              li
-                i.fas.fa-circle
                 |  No leer el manual de instrucciones de la cámara, desaprovechándola así.
               li
                 i.fas.fa-circle

@@ -142,21 +142,21 @@ export default {
     {
       termino: 'Composición',
       significado:
-        'Distribución o disposición de todos los elementos que se incluirán en un diseño, fotografía, pintura, escultura',
+        'Distribución o disposición de todos los elementos que se incluirán en un diseño, fotografía, pintura, escultura.',
     },
     {
       termino: 'Encuadre',
-      significado: 'Espacio que capta en cada toma el objetivo de una cámara',
+      significado: 'Espacio que capta en cada toma el objetivo de una cámara.',
     },
     {
       termino: '<em>Flash</em>',
       significado:
-        'Aparato que, mediante un destello, da la luz precisa para hacer una fotografía instantánea',
+        'Aparato que, mediante un destello, da la luz precisa para hacer una fotografía instantánea.',
     },
     {
       termino: 'Fotografía',
       significado:
-        'Procedimiento o técnica que permite obtener imágenes fijas de la realidad mediante la acción de la luz sobre una superficie sensible o sobre un sensor',
+        'Procedimiento o técnica que permite obtener imágenes fijas de la realidad mediante la acción de la luz sobre una superficie sensible o sobre un sensor.',
     },
     {
       termino: 'Imagen',
@@ -170,16 +170,16 @@ export default {
     {
       termino: 'Plano fotográfico',
       significado:
-        'Parte de la imagen capturada que muestra lo que hay a cierta distancia de la cámara',
+        'Parte de la imagen capturada que muestra lo que hay a cierta distancia de la cámara.',
     },
     {
       termino: 'Retrato',
       significado: 'Fotografía donde el objeto principal es una persona.',
     },
     {
-      termino: 'Zoom',
+      termino: '<i>Zoom</i>',
       significado:
-        'Capacidad de acercar o alejar la imagen de la cámara sin tener que mover físicamente más cerca o más lejos del sujeto',
+        'Capacidad de acercar o alejar la imagen de la cámara sin tener que mover físicamente más cerca o más lejos del sujeto.',
     },
   ],
   referencias: [
