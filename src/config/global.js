@@ -135,7 +135,7 @@ export default {
       tema: '2. La fotografía',
       referencia: '(s,f)La fotografía digital a su alcance. ',
       tipo: 'PDF',
-      descarga: '/downloads/Manual_Fotogradia_Digital.pdf',
+      descarga: 'downloads/Manual_Fotografia_Digital.pdf',
     },
   ],
   glosario: [

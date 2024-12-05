@@ -18,7 +18,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto.p-4 Según Wong (1995), #[i “todos los diseños tienen una estructura que gobierna la posición de las formas en una composición. Esta estructura impone orden y predetermina las relaciones internas de las formas”.] (pág. 27)
+          h4.text-regular.bloque-texto-f__texto.p-4 Según Wong (1995), “todos los diseños tienen una estructura que gobierna la posición de las formas en una composición. Esta estructura impone orden y predetermina las relaciones internas de las formas”. (pág. 27)
         
       .mn.p-5.bg-slyder.mb-5
         .tarjeta.bg-color-1.p-5
@@ -43,13 +43,13 @@
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura activa/ inactiva:
+                h4 Estructura activa / inactiva:
                 p La estructura inactiva equivale a líneas conceptuales que sirven de guías para las formas. Estas líneas no se involucran con los componentes del diseño. Por otro lado, la estructura activa es un conjunto de líneas también conceptuales que son partícipes del diseño.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/5.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura visible/invisible:
+                h4 Estructura visible / invisible:
                 p En la mayoría de los casos, la estructura es invisible, pero también puede hacerse partícipe del diseño haciéndose visible ya sea en positivo o en negativo.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/6.png', alt='')
 
