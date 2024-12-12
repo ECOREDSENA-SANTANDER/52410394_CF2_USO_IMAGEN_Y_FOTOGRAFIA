@@ -133,7 +133,7 @@ export default {
   complementario: [
     {
       tema: '2. La fotografía',
-      referencia: '(s,f)La fotografía digital a su alcance. ',
+      referencia: '(s,f) La fotografía digital a su alcance. ',
       tipo: 'PDF',
       descarga: 'downloads/Manual_Fotografia_Digital.pdf',
     },
@@ -282,7 +282,7 @@ export default {
       autores: [
         {
           nombre: 'Julian Fernando Vanegas Vega',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -306,7 +306,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

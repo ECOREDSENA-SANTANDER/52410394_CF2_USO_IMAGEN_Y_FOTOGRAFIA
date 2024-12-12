@@ -9,7 +9,7 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         p Según el diccionario de la Real Academia Española, la fotografía es el arte de fijar y reproducir por medio de reacciones químicas, en superficies convenientemente preparadas, las imágenes recogidas en el fondo de una cámara oscura.
-        p Pero con la fotografía digital ese concepto esta desactualizado y se puede decir entonces que la fotografía es el proceso de capturar una imagen y almacenarla en un medio físico o digital.
+        p Pero con la fotografía digital ese concepto está desactualizado y se puede decir entonces que la fotografía es el proceso de capturar una imagen y almacenarla en un medio físico o digital.
         p.mb-0 Una fotografía sirve como referente, recuerdo o testigo, es decir, un punto clave capturado en el tiempo que es capaz de traspasar barreras generacionales y mantenerse siempre vigente.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/1.png', alt='')
@@ -28,27 +28,27 @@
               p.mb-0 Se pueden ver cientos de retratos en nuestros álbumes familiares. La foto de los papás, de los abuelos, la del grado, todas esas imágenes son retratos que muestran la grandeza de las personas.
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/3.png', alt='').d-none.d-lg-block
-          .row(titulo="El Bodegón")
+          .row(titulo="El bodegón")
             .col-sm-12.col-lg-9
               p.mb-3 Este tipo de fotografía es también conocido como "Naturaleza muerta", ya que captura objetos inanimados formando una composición en la escena. Muchas personas tienen la concepción errada que al hablar de bodegones solo se habla de objetos relacionados con comida, pero están equivocados, ya que este tipo de fotografía abarca tanto objetos naturales como objetos creados por el hombre.
               p.mb-0 Lo más valioso del bodegón es la libertad que le da al fotógrafo de intervenir con la escena, los objetos, la luz, y así lograr composiciones muy interesantes, dándole vida y realce a objetos que quizá por la cotidianidad muchas veces se ignora.
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/4.png', alt='').d-none.d-lg-block
 
-          .row(titulo="El Paisaje")
+          .row(titulo="El paisaje")
             .col-sm-12.col-lg-9
               p.mb-0 Básicamente un paisaje es una extensión de terreno que se puede observar desde un punto, involucrando así dos partes: un observador y algo que está siendo observado. Este puede ser rural, urbano, espacial, microscópico, artificial, natural, etc. Lo importante es la magnitud de la toma, ya que en la fotografía de paisajes no se está enfocando un objeto específico sino la totalidad de un algo.
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/5.png', alt='').d-none.d-lg-block
 
-          .row(titulo="Fotografía Nocturna")
+          .row(titulo="Fotografía nocturna")
             .col-sm-12.col-lg-9
               p.mb-3 Se interpreta como fotografía nocturna la que es tomada en condiciones de luz un tanto complejas, ya sea al anochecer, a lo largo de la noche o en el momento del amanecer.
               p.mb-0 Estas fotografías son muy difíciles de lograr, pero muy satisfactorias cuando se obtiene el objetivo. Lo más recomendable para tener buenas imágenes nocturnas es utilizar la cámara fija con trípode y en lo posible no usar #[i flash].
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/6.png', alt='').d-none.d-lg-block
 
-          .row(titulo="Fotografía Deportiva")
+          .row(titulo="Fotografía deportiva")
             .col-sm-12.col-lg-9
               p.mb-3 La fotografía en este campo exige bastantes retos. Pero algo que muchas veces no se tiene en cuenta y es indispensable, es conocer las reglas básicas del deporte. Esto va a ayudar a tener buenas tomas y saber el momento propicio para obturar.  Es muy importante considerar el movimiento de los objetos o de las personas y tener la capacidad de anticiparse. Dependiendo de la situación, un trípode sería de gran utilidad. 
               p.mb-0 Se requiere bastante paciencia y al mismo tiempo agilidad para capturar un momento clave. Algunas cámaras ofrecen la opción de varios disparos consecutivos en aras de capturar secuencias.
@@ -56,7 +56,7 @@
             .col-sm-12.col-lg-3
               img(src='@/assets/curso/temas/t2/7.png', alt='').d-none.d-lg-block
 
-          .row(titulo="Fotografía Arquitectónica")
+          .row(titulo="Fotografía arquitectónica")
             .col-sm-12.col-lg-9
               p.mb-0 Este tipo de fotografía es muy empleado como documental, ya que ofrece detalles exclusivos y permite enmarcar un contexto generacional alrededor de sus características. Evoca lugares, culturas, momentos específicos y también puede georreferenciar fácilmente en un momento en el tiempo.
             .col-sm-12.col-lg-3
@@ -70,39 +70,39 @@
     Separador
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.2 Planos fotográficos
-    p En fotografía un plano es la proporción del objeto que se captura. Esto ayuda a determinar que parte del objeto es más relevante para la fotografía para realizar los cortes correspondientes, sin descuidar proporciones ni la estética final.
+    p En fotografía, un plano es la proporción del objeto que se captura. Esto ayuda a determinar qué parte del objeto es más relevante para la fotografía para realizar los cortes correspondientes, sin descuidar proporciones ni la estética final.
     p.mb-5 Estos son algunos de los más conocidos y utilizados, organizados del plano más abierto al más cerrado: general, americano (tres cuartos), medio, primer plano, primerísimo primer plano y detalle.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-6
         .titulo-sexto.color-primario
           h5 Figura 2.
           span  Planos fotográficos.
-        img(src='@/assets/curso/temas/t2/9.png', alt='La figura presenta 6 fotografías, donde se presentan los diferentes tipos de planos: general, americano (tres cuartos), medio, primer plano. primerisimo primer plano, detalle.')
+        img(src='@/assets/curso/temas/t2/9.png', alt='La figura presenta 6 fotografías, donde se mencionan los diferentes tipos de planos: general, americano (tres cuartos), medio, primer plano, primerísimo primer plano y detalle.')
     .row.justify-content-center.mb-5
       .col-lg-12
         TabsA.color-acento-botones
-          .tarjeta.bg-color-2.p-4(titulo="Plano General") 
+          .tarjeta.bg-color-2.p-4(titulo="Plano general") 
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 El plano general es el más abierto, ya que permite mayor cobertura de la escena. Se usa cuando se quiere abarcar un gran conjunto de cosas, en la composición lograda por el conjunto, mas no se quiere hacer énfasis en ningún detalle específico. Este plano logra hacer un mayor énfasis en una situación que en un sujeto en particular. Al ser el plano más abierto es el ideal para tomar paisajes, conciertos, caravanas y demás situaciones similares.
-                p.mb-0 También se pueden consideran dos variantes al plano general que son: el plano general corto y el plano general conjunto. El plano general corto es la toma que se le hace a una persona u objeto en medio de un gran fondo, y el plano general conjunto es el que se toma a un grupo numeroso de personas u objetos donde prácticamente enmarcan la fotografía.
+                p.mb-0 También se pueden considerar dos variantes al plano general que son: el plano general corto y el plano general conjunto. El plano general corto es la toma que se le hace a una persona u objeto en medio de un gran fondo, y el plano general conjunto es el que se toma a un grupo numeroso de personas u objetos donde prácticamente enmarcan la fotografía.
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/10.png', alt='')
 
-          .tarjeta.bg-color-2.p-4(titulo="Plano Americano (tres cuartos)")
+          .tarjeta.bg-color-2.p-4(titulo="Plano americano (tres cuartos)")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 El plano americano es el que se les toma a las personas haciendo el corte a la altura de las rodillas.
-                p.mb-0 Su uso inicia en las películas western, ante la necesidad de enfocar los encuentros de pistoleros de forma que se resaltara al máximo la acción al desenfundar el revólver.
+                p.mb-3 Su uso inicia en las películas western, ante la necesidad de enfocar los encuentros de pistoleros de forma que se resaltara al máximo la acción al desenfundar el revólver.
                 p.mb-0 Es un buen plano para tomar grupos de personas, no muy numerosos y de similares características, ya que resalta las personas y las hace ver muy bien.
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/11.png', alt='')
 
-          .tarjeta.bg-color-2.p-4(titulo="Plano Medio")
+          .tarjeta.bg-color-2.p-4(titulo="Plano medio")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 El plano medio es aquel que corta la toma por la cintura de la persona, razón por la cual es muy empleado para la fotografía de retrato. En televisión es muy utilizado en las entrevistas y en los noticieros.
-                p.mb-0 Este plano realza las características del modelo por lo tanto es muy usado en las fotografías de moda, al hacer uso de este plano en un formato vertical, el fondo pasa por desapercibido.
+                p.mb-3 Este plano realza las características del modelo por lo tanto es muy usado en las fotografías de moda, al hacer uso de este plano en un formato vertical, el fondo pasa por desapercibido.
                 p.mb-0 Existe una variante llamada plano medio corto o plano de busto, y como su nombre lo indica hace un corte mayor, desde el nivel del pecho a la cabeza. Esta característica lo hace mucho más subjetivo y genera una mayor identificación emocional con el observador.
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/12.png', alt='')
@@ -116,7 +116,7 @@
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/13.png', alt='')
 
-          .tarjeta.bg-color-2.p-4(titulo="Primerísimo Primer Plano")
+          .tarjeta.bg-color-2.p-4(titulo="Primerísimo primer plano")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 Quizá es el plano más emocional que existe, ya que corta el rostro desde la base del mentón hasta desaparecer parte superior de la cabeza.
@@ -124,7 +124,7 @@
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/14.png', alt='')
 
-          .tarjeta.bg-color-2.p-4(titulo="Plano Detalle")
+          .tarjeta.bg-color-2.p-4(titulo="Plano detalle")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 Este plano muestra un "detalle" específico que en otro tipo de plano quizá pasaría desapercibido. Es un plano totalmente artístico y difícil de manejar, que exige que muchas veces puede confundir al espectador, ya que puede descontextualizar fácilmente una imagen. Es totalmente expresivo y muchas veces se pierde en la importancia del contexto o del cuerpo al que pertenece el detalle.
@@ -165,7 +165,7 @@
       .texto-banner
         h3.my-0 La compensación
     p.mb-0 La composición de la escena debe ser compensada, guardar un sutil equilibrio entre fondo y objeto, o si es un plano cerrado entre los objetos que allí aparecen.
-    p.mb-5 En caso de haber descompensación intencional en la fotografía se deben conservan los detalles que mantengan el significado que se quiere trasmitir al espectador.
+    p.mb-5 En caso de haber descompensación intencional en la fotografía se deben conservar los detalles que mantengan el significado que se quiere trasmitir al espectador.
 
 
    
@@ -190,7 +190,7 @@
           .texto-banner
             h3.my-0 La regla de horizonte
         p.mb-3 Esta recomendación consiste en ubicar el horizonte de la fotografía sobre uno de los tercios de esta. Para lo cual se divide la fotografía en tres filas y basándose en esas divisiones se ubica el horizonte.
-        p.mb-0 De esta manera se deja dos tercios de la imagen para el elemento principal y un tercio para el resto. Esto garantiza una fotografía con suficiente aire, equilibrada y da la sensación de no estar incompleta.
+        p.mb-0 De esta manera se dejan dos tercios de la imagen para el elemento principal y un tercio para el resto. Esto garantiza una fotografía con suficiente aire, equilibrada y da la sensación de no estar incompleta.
       .col-sm-12.col-lg-4
         img(src='@/assets/curso/temas/t2/19.png', alt='')
 
@@ -209,9 +209,9 @@
         h3.my-0 Convergencia de diagonales
     .row.justify-content-center.mb-5
       .col-lg-8
-        p.mb-3 En toda fotografía que se tenga se puede ver líneas imaginarias que marcan un horizonte y muchas veces existen puntos de convergencia entre esas líneas. Al tomar por ejemplo una torre desde su parte baja se puede ver como las líneas parecen unirse más adelante, o en el típico ejemplo de la carrilera del tren, se evidencia como las líneas tienen la misma tendencia.
+        p.mb-3 En toda fotografía que se tenga se pueden ver líneas imaginarias que marcan un horizonte y muchas veces existen puntos de convergencia entre esas líneas. Al tomar por ejemplo una torre desde su parte baja se puede ver cómo las líneas parecen unirse más adelante, o en el típico ejemplo de la carrilera del tren, se evidencia cómo las líneas tienen la misma tendencia.
         p.mb-3 Para generar fotografías interesantes se puede jugar con la posición respecto a las líneas de convergencia, haciendo que se desplacen por la imagen diagonalmente. La ubicación y la simetría ayudan a generar imágenes de mayor impacto.
-        p.mb-0 Teniendo en cuenta que las líneas convergentes no dirigen siempre hacia un punto, se encuentre o no dentro de la imagen, se puede tomar ese punto como el centro de interés de la fotografía. Así mismo, ubicar el elemento que se quiera destacar, las líneas inevitablemente llevaran al espectador al objetivo establecido.
+        p.mb-0 Teniendo en cuenta que las líneas convergentes no dirigen siempre hacia un punto, se encuentre o no dentro de la imagen, se puede tomar ese punto como el centro de interés de la fotografía. Así mismo, al ubicar el elemento que se quiera destacar, las líneas inevitablemente llevarán al espectador al objetivo establecido.
       .col-lg-4
         img(src='@/assets/curso/temas/t2/20.png', alt='')
 
@@ -240,23 +240,22 @@
           .row(titulo="Estabilidad de la imagen")
             .col-sm-12.col-lg-12
               p.mb-3 Las imágenes corridas es un mal que al parecer se ha incrementado con las cámaras digitales. Al ver las fotos reveladas o en el computador, se nota que estas no son legibles.
-              p.mb-3 Este efecto es causado por la fuerza que se hace al obturar, cuando se acciona la cámara muchas veces se hace mucha fuerza y se mueve la cámara. Al mover la cámara en el momento que se captura la imagen estamos se arruina la fotografía.
+              p.mb-3 Este efecto es causado por la fuerza que se hace al obturar, cuando se acciona la cámara muchas veces se hace mucha fuerza y se mueve la cámara. Al mover la cámara en el momento en que se captura la imagen se arruina la fotografía.
               p.mb-3 Para evitar este problema en cámara análoga se debe oprimir muy suavemente el obturador, además sujetarla firmemente incluso desde su base o costados. En las cámaras digitales es más común dado a su escaso peso, razón por la cual la mayoría de los fabricantes incluyen una opción para estabilizar la imagen, la cual ayuda a corregir este problema.
               p.mb-0 Independientemente del tipo de cámara que se utilice, usted puede usar un trípode y como complemento, dependiendo las opciones de la cámara, es útil tener un temporizador, ya que al dispararse sola es nula la posibilidad de un movimiento que arruine la toma.
 
           .row(titulo="Marco natural")
             .col-sm-12.col-lg-12
-              p.mb-3 Los marcos siempre ayudan a delimitar, y en el caso particular de la fotografía pueden centrar la atención. Ya sean marcos naturales o artificiales, pueden ser provechosos para enmarcar la imagen.
-              p.mb-3 Para buscar marcos en su entorno, usted se puede tomar una fotografía a un paisaje desde una ventana o a una persona encuadrada en el marco de una puerta. También se puede hacer uso de marcos mediante una fotografía a un objeto enfocado a través o sin paso asomándose en la ventana de un automóvil, entre otros.
-              p.mb-0 Aunque no siempre se debe ser tan explícito al intentar enmarcar una toma, también se obtienen muy buenos resultados de forma sutil, por ejemplo, las ramas de un árbol en sus extremos, una persona sentada sobre el piso en una esquina, un grupo de montañas al horizonte o el cielo de un día soleado, son muchas las variables que pueden ayudar a generar esa sensación.
-
+              p.mb-3 Los marcos siempre ayudan a delimitar, y en el caso particular de la fotografía, pueden centrar la atención. Ya sean muy notorios o sutiles, pueden ser emplearlos para mejorar la imagen. 
+              p.mb-3 Para buscar marcos en su entorno, usted se puede tomar una fotografía a un paisaje desde una ventana o a una persona recargada en el marco de una puerta. También se puede hacer uso de marcos mediante a una fotografía a un objeto reflejado en un espejo o un perro asomándose en la ventana de un automóvil, entre otros. 
+              p.mb-0 Aunque no siempre se debe ser tan explícito al intentar enmarcar una toma, también se obtienen muy buenos resultados de forma sutil, por ejemplo, las ramas de un árbol en un extremo, una persona sentada sobre el piso en una esquina de la imagen, un grupo de montañas en el horizonte o el curso de un río son muchas las variables que pueden ayudar a generar esa sensación. 
           .row(titulo="Repetición de elementos")
             .col-sm-12.col-lg-12
               p.mb-3 La repetición da la sensación de uniformidad, de armonía y de ecuanimidad. Esta sensación es muy agradable para el espectador y se puede hacer más interesante cuando se vuelve parte de la composición.
               p.mb-3 La grilla de partida en una carrera, un banco de aves migrando, una galería de trofeos, una caravana de autos o un jardín de rosas son objetos repetidos enmarcados en un contexto y forman una composición entre ellos, lo cual enriquece la fotografía.
               p.mb-0 Adicionalmente hay una curiosa percepción que se genera al ver grupos de objetos impares en las fotografías, incluso esta sensación aumenta cuando el grupo es de tres objetos. Por ejemplo, un solo objeto dentro de una fotografía puede dar la sensación de soledad, mientras que dos objetos se sienten bien equilibrados y cuatro ya son bastantes, lo que hace que el tres sea un número más neutro.
 
-          .row(titulo="Espacio Vacío")
+          .row(titulo="Espacio vacío")
             .col-sm-12.col-lg-12
               p.mb-3 Lo normal en una fotografía es llenar el encuadre con objetos o con el modelo a fotografiar. El espacio vacío es otra forma poderosa de centrar la atención en un punto deseado y además enmarca al espectador dentro de una temática fácilmente.
               p.mb-3 Este es un elemento netamente compositivo, en el que hay fondos simples y homogéneos, abarcando gran parte de la imagen, y además el objeto centro de interés está ubicado en uno de los puntos fuertes de los tercios (Regla de los tercios).

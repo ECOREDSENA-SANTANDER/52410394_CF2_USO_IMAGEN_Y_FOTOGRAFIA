@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama presenta los principales temas tratados en el componente: tipos, estructuras y jerarquías en los elementos de una imagen; y clasificación, planos, técnicas de composición y consejos prácticos para conseguir una buena fotografía.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama presenta los principales temas tratados en el componente: tipos de estructuras, composición y jerarquías en los elementos de una imagen; y clasificación, planos, técnicas de composición y consejos prácticos para conseguir una buena fotografía.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

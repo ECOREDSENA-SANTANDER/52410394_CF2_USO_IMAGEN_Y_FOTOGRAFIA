@@ -7,7 +7,7 @@
         span 1
       h1 La imagen
     p Una imagen es la representación visual de algo concreto o abstracto, imaginario o real, es decir, la simulación de una figura, un objeto, una escena o un concepto que se aprecia con la vista. Son ejemplos de imágenes las fotografías, las ilustraciones, las obras de arte y diseño, así como lo que refleja un espejo.
-    p En la producción de imágenes se debe tener en cuenta elementos estructurales que definen la distribución y la organización de las formas. Esto permite crear piezas simétricas a partir una variedad de combinaciones en sus componentes.
+    p En la producción de imágenes se deben tener en cuenta elementos estructurales que definen la distribución y la organización de las formas. Esto permite crear piezas simétricas a partir de una variedad de combinaciones en sus componentes.
     
     Separador
     #t_1_1.titulo-segundo.color-primario
@@ -31,7 +31,7 @@
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura semi formal:
+                h4 Estructura semiformal:
                 p Este tipo de estructura se caracteriza por seguir un trazo regular con algunas irregularidades. Aquí no existe rigidez, al contrario, se muestra una variación simple.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/3.png', alt='')
 
@@ -43,26 +43,26 @@
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura activa / inactiva:
+                h4 Estructura activa/inactiva:
                 p La estructura inactiva equivale a líneas conceptuales que sirven de guías para las formas. Estas líneas no se involucran con los componentes del diseño. Por otro lado, la estructura activa es un conjunto de líneas también conceptuales que son partícipes del diseño.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/5.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura visible / invisible:
-                p En la mayoría de los casos, la estructura es invisible, pero también puede hacerse partícipe del diseño haciéndose visible ya sea en positivo o en negativo.
+                h4 Estructura visible/invisible:
+                p En la mayoría de los casos, la estructura es invisible, pero también puede hacerse partícipe del diseño, haciéndose visible, ya sea en positivo o en negativo.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/6.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
                 h4 Variaciones en estructuras
-                p #[b Forma:] Cualquier variación que altere la retícula o los elementos que contiene, puede ser en color, distribución de celdas, proporciones, etc.
+                p #[b Forma:] cualquier variación que altere la retícula o los elementos que contiene, puede ser en color, distribución de celdas, proporciones, etc.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/7.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
                 h4 Gradación:
-                p Exige un cambio gradual ya sea en color forma o tamaño de manera ordenada. Genera ilusión óptica y crea una sensación de progresión. Conduce (culminaciones).
+                p Exige un cambio gradual, ya sea en color, forma o tamaño, de manera ordenada. Genera ilusión óptica y crea una sensación de progresión. Conduce (culminaciones).
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/8.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
@@ -128,9 +128,9 @@
           span  Ejemplos de jerarquización.
         .row.justify-content-center.align-items-center.mb-0
           .col-sm-12.col-lg-6.mb-0
-            img(src='@/assets/curso/temas/t1/16.png', alt='La figura presenta dos imágenes que ejemplifican la jerarquía en los elementos de una fotografía, en una se muestra una estatua de un caballo con arboles y cielo en el fondo; la segunda presenta el dedo pulgar de un hombre y una araña pequeña aproximándose.')
+            img(src='@/assets/curso/temas/t1/16.png', alt='La figura presenta dos imágenes que ejemplifican la jerarquía en los elementos de una fotografía, en una se muestra una estatua de un caballo con árboles y cielo en el fondo; la segunda presenta el dedo pulgar de un hombre y una araña pequeña aproximándose.')
           .col-sm-12.col-lg-6.mb-0
-            img(src='@/assets/curso/temas/t1/17.png', alt='La figura presenta dos imágenes que ejemplifican la jerarquía en los elementos de una fotografía, en una se muestra una estatua de un caballo con arboles y cielo en el fondo; la segunda presenta el dedo pulgar de un hombre y una araña pequeña aproximándose.')
+            img(src='@/assets/curso/temas/t1/17.png', alt='La figura presenta dos imágenes que ejemplifican la jerarquía en los elementos de una fotografía, en una se muestra una estatua de un caballo con árboles y cielo en el fondo; la segunda presenta el dedo pulgar de un hombre y una araña pequeña aproximándose.')
 
 
 

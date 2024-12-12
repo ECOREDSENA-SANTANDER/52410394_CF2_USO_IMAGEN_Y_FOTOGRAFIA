@@ -16,7 +16,7 @@ export default {
       tema: 'Aspectos fundamentales en el aprendizaje.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Validar el conocimiento adquirido sobre las características de las imágenes y la fotografía.',
+        '<b> Objetivo:</b> validar el conocimiento adquirido sobre las características de las imágenes y la fotografía.',
       barajarPreguntas: true,
       preguntas: [
         {
