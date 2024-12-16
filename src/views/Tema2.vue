@@ -107,7 +107,7 @@
               .col-sm-12.col-lg-3
                 img(src='@/assets/curso/temas/t2/12.png', alt='')
 
-          .tarjeta.bg-color-2.p-4(titulo="Primer Plano")
+          .tarjeta.bg-color-2.p-4(titulo="Primer plano")
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-9
                 p.mb-3 De aquí en adelante el fondo pierde cualquier grado de importancia en la fotografía. La fotografía de primer plano es aquella que corta la imagen a nivel de los hombros. Es una fotografía muy íntima dado su grado de cercanía con el modelo.
