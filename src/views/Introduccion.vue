@@ -11,7 +11,7 @@
     p En el siguiente video se mencionan los diferentes temas que serán tratados dentro de este componente formativo:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/HN2YgxL242Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/A4z5OLlnmzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Las imágenes y la fotografía
     
 </template>

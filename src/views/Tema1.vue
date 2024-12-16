@@ -43,13 +43,13 @@
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura activa/inactiva:
+                h4 Estructura activa / inactiva:
                 p La estructura inactiva equivale a líneas conceptuales que sirven de guías para las formas. Estas líneas no se involucran con los componentes del diseño. Por otro lado, la estructura activa es un conjunto de líneas también conceptuales que son partícipes del diseño.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/5.png', alt='')
 
             .row.justify-content-center.align-items-center.mb-0
               .col-sm-12.col-lg-7.mb-0
-                h4 Estructura visible/invisible:
+                h4 Estructura visible / invisible:
                 p En la mayoría de los casos, la estructura es invisible, pero también puede hacerse partícipe del diseño, haciéndose visible, ya sea en positivo o en negativo.
               .col-sm-12.col-lg-4.mb-0: img(src='@/assets/curso/temas/t1/6.png', alt='')
 
