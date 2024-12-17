@@ -247,7 +247,7 @@
           .row(titulo="Marco natural")
             .col-sm-12.col-lg-12
               p.mb-3 Los marcos siempre ayudan a delimitar, y en el caso particular de la fotografía, pueden centrar la atención. Ya sean muy notorios o sutiles, pueden ser emplearlos para mejorar la imagen. 
-              p.mb-3 Para buscar marcos en su entorno, usted se puede tomar una fotografía a un paisaje desde una ventana o a una persona recargada en el marco de una puerta. También se puede hacer uso de marcos mediante a una fotografía a un objeto reflejado en un espejo o un perro asomándose en la ventana de un automóvil, entre otros. 
+              p.mb-3 Para buscar marcos en su entorno, usted se puede tomar una fotografía a un paisaje desde una ventana o a una persona recargada en el marco de una puerta. También se puede hacer uso de marcos mediante una fotografía a un objeto reflejado en un espejo o un perro asomándose en la ventana de un automóvil, entre otros. 
               p.mb-0 Aunque no siempre se debe ser tan explícito al intentar enmarcar una toma, también se obtienen muy buenos resultados de forma sutil, por ejemplo, las ramas de un árbol en un extremo, una persona sentada sobre el piso en una esquina de la imagen, un grupo de montañas en el horizonte o el curso de un río son muchas las variables que pueden ayudar a generar esa sensación. 
           .row(titulo="Repetición de elementos")
             .col-sm-12.col-lg-12
